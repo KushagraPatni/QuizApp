@@ -1,6 +1,6 @@
 # Quiz App
 
-A simple Quiz App built using Jetpack Compose in Android Studio. This app presents users with a series of questions and allows them to select answers, providing feedback based on the correctness of their choices.
+A Quiz App built using Jetpack Compose in Android Studio. This app presents users with a series of questions and allows them to select answers, providing feedback based on the correctness of their choices.
 
 ## Features
 
